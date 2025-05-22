@@ -37,4 +37,4 @@ If you have questions about this Privacy Policy, contact us at:
 - Email: [dev@mindobambu.com]
 - App Support: [dev@mindobambu.com]
 
-This Privacy Policy is hosted at [https://github.com/joelvosu/never_idle/blob/main/PrivacyPolicy.md].
+This Privacy Policy is hosted at [https://joelvosu.github.io/policy/NeverIdlePrivacyPolicy.md].
