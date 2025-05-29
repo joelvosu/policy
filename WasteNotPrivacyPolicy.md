@@ -48,3 +48,4 @@ If you have questions or concerns about this Privacy Policy or our data practice
 Email: dev@mindobambu.com
 
 Thank you for using Waste Not!
+This Privacy Policy is hosted at [https://joelvosu.github.io/policy/WasteNotPrivacyPolicy.md].
